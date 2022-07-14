@@ -5,7 +5,8 @@ A simple Flutter project.
 This project is a starting point for a Flutter application.
 
 ## Debuging
- Install dependencies from ```pubspec.yaml``` and run the project from your IDE
+ Install dependencies from ```pubspec.yaml``` and run the project from your IDE\
+ Or use the command ``flutter run``
 
 
 ## App Structure
